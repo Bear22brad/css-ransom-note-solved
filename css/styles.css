@@ -83,49 +83,133 @@ body {
 /* DID word */
 
 .didDLetter {
+  font-size: 40px;
+  font-weight: bold;
+  color: darkgoldenrod;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Cursive', sans-serif;
 }
 
 .didILetter {
+  font-size: 70px;
+  font-weight: normal;
+  color: cornflowerblue;
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-family: 'Fantasy', sans-serif;
 }
 
 .didDTwoLetter {
+  font-size: 50px;
+  font-weight: bold;
+  color: chartreuse;
+  text-decoration: line-through;
+  text-transform: uppercase;
+  font-family: 'Emoji', sans-serif;
 }
 
 /* THE word */
 
 .theTLetter {
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(184, 11, 11);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Piazzolla', sans-serif;
 }
 
 .theHLetter {
+  font-size: 40px;
+  font-weight: normal;
+  color: rgb(31, 0, 170);
+  text-decoration: overline;
+  text-transform: lowercase;
+  font-family: 'Luminari', sans-serif;
 }
 
 .theELetter {
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Brush Script MT', sans-serif;
 }
 
 /* FRONT-END word */
 
 .frontendFLetter {
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(0, 148, 44);
+  text-decoration: overline;
+  text-transform: uppercase;
+  font-family: 'Marker Felt', sans-serif;
 }
 
 .frontendRLetter {
+  font-size: 50px;
+  font-weight: normal;
+  color: rgb(221, 255, 0);
+  text-decoration: none;
+  text-transform: lowercase;
+  font-family: 'Snell Roundhand', sans-serif;
 }
 
 .frontendOLetter {
+  font-size: 60px;
+  font-weight: lighter;
+  color: rgb(133, 0, 178);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Noto Serif', serif;
 }
 
 .frontendNLetter {
+  font-size: 50px;
+  font-weight: normal;
+  color: rgb(0, 255, 191);
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-family: 'Papyrus', sans-serif;
 }
 
 .frontendTLetter {
+  font-size: 70px;
+  font-weight: bold;
+  color: rgb(205, 108, 47);
+  text-decoration: none;
+  text-transform: lowercase;
+  font-family: 'Comic Sans MS', sans-serif;
 }
 
 .frontendELetter {
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(98, 98, 98);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Marker Felt', sans-serif;
 }
 
 .frontendNTwoLetter {
+  font-size: 50px;
+  font-weight: normal;
+  color: rgb(93, 0, 0);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Comic Sans MS', sans-serif;
 }
 
 .frontendDLetter {
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(72, 42, 25);
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-family: 'Fantasy', sans-serif;
 }
 
 /* DEVELOPER word */
@@ -297,6 +381,12 @@ body {
 /* SYMBOLS */
 
 .hyphen {
+  font-size: 40px;
+  font-weight: bolder;
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+  text-transform: none;
+  font-family: 'Raleway Dots', sans-serif;
 }
 .exclamation-mark {
 }
