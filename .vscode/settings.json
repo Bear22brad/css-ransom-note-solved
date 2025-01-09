@@ -10,5 +10,11 @@
     "Piazzolla",
     "Raleway"
   ],
-  "liveServer.settings.port": 5551
+  "liveServer.settings.port": 5551,
+  "cSpell.ignoreWords": [
+    "'Luminari'",
+    "Luminari",
+    "Roundhand",
+    "Roundhand'"
+  ]
 }
